@@ -1,4 +1,5 @@
 require("dotenv").config();
+const name = "yash";
 
 const config = require("./config.json");
 const mongoose = require("mongoose");
